@@ -45,5 +45,5 @@ int main(){
             high=mid-1;
         }
     }
-    
+    cout<<ans*ans<<endl;
 }
